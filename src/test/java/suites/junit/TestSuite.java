@@ -24,7 +24,7 @@ import org.junit.runner.RunWith;
                         "json:build/cucumber-report/cucumber.json",
                         "html:build/cucumber-report/cucumber.html",
                         "junit:build/cucumber-report/cucumber.xml",
-                        "io.qameta.allure.cucumber6jvm.AllureCucumber6Jvm",}
+                        "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"}
         ))
 public class TestSuite {
 }

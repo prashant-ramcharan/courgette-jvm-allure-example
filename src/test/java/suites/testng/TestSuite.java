@@ -23,7 +23,7 @@ import org.testng.annotations.Test;
                         "pretty",
                         "json:build/cucumber-report/cucumber.json",
                         "html:build/cucumber-report/cucumber.html",
-                        "io.qameta.allure.cucumber6jvm.AllureCucumber6Jvm",}
+                        "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"}
         ))
 public class TestSuite extends TestNGCourgette {
 }
